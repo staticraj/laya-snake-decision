@@ -1,4 +1,9 @@
+# snake live youtube
 https://www.youtube.com/watch?v=YJptns7lN8U
+
+# https://www.youtube.com/@CreatorMagicAI 
+I Gave 3 AI Trading Bots $1,000 (Jev)
+https://www.youtube.com/watch?v=8ijN8LGljKg
 
 # Laya decision brain
 
