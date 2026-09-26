@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=YJptns7lN8U
+
 # Laya decision brain
 
 Next.js + FastAPI lab for [Laya](https://github.com/convaiinnovations/laya). Ask the model about a steak-and-risk survey, inspect one decision, and watch it play Snake.
